@@ -3,6 +3,12 @@
 The content of this repository comes from a module delivered by Imperial College London.
 It was deepened the theory of both tabular reinforcement learning and deep reinforcement learning and their design, implementation, and evaluation using Python and Pytorch.
 
+## Table of Contents
+* [Tabular Reinforcement Learning](#tabular-reinforcement-learning)
+    * [Dynamic Programming](#dynamic-programming)
+    * [Monte-Carlo Learning](#monte-carlo-learning)
+    * [Temporal Difference Learning](#temporal-difference-learning)
+
 ## Tabular Reinforcement Learning
 
 It is presented a Maze environment and its resolution through a Markov Decision Process.
